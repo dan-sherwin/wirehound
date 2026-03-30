@@ -4,7 +4,7 @@
 
 > Rust rover, Rust rover... send Wirehound right over.
 
-Wirehound is a network debugging tool written in Rust that captures TCP traffic, reconstructs conversations, and decodes plaintext REST API interactions into readable request and response flows.
+Wirehound is a network debugging tool written in Rust that captures TCP traffic, reconstructs conversations, and decodes plaintext REST API interactions into clean request/response flows.
 
 It is built for one purpose: to make it easy to see exactly what your services are doing on the wire—without drowning in packet-level noise.
 
